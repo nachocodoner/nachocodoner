@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there, welcome!
 
-<!--
-**nachocodoner/nachocodoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nacho Codoñer.
 
-Here are some ideas to get you started:
+💻 I'm a **software engineer** passionate about building powerful **multiplatform apps** using **web technologies only**, centered around **JavaScript**. I work across the full stack: frontend, backend, testing, and infrastructure. I'm particularly _obsessed with the Meteor framework_, for its simplicity, power, and the passionate community of developers behind it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm currently helping **modernize the Meteor framework** so that any professional or company can rely on it for modern multiplatform development. To support that, I **contribute part-time to the Meteor core team**, and also independently as an enthusiastic hobbyist.
+
+🤝 I enjoy collaborating with **teams** that value **proactivity**, **fun**, **learn and experimentation**, **automation**, **horizontal collaboration**, **long-term thinking**, and **respect for each person’s independence and decisions**.
+
+🌱 I love **indie development** and deeply value **autonomy**, it suits my introvert nature. I enjoy a calm, focused work rhythm, space for deep thinking, and the freedom to build with intention. In my spare time, I express creativity by building my _own dream app_.
+
+🏡 In my free time, I enjoy quiet plans at home, spending time outside with friends and family, running, and playing and exploring the mechanics of board games and online video games.
+
+📫 **Let’s connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nachocodoner)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/nachocodoner)
