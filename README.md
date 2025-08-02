@@ -12,7 +12,7 @@ I'm Nacho Codoñer.
 
 🏡 Outside tech, I enjoy quiet plans at home, spending time outside with friends and family, running, and playing and exploring the mechanics of board games and online video games.
 
-📫 **Let’s connect!**
+### 📫 **Let’s connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nachocodoner)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/nachocodoner)
