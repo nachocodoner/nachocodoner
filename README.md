@@ -2,7 +2,7 @@
 
 I'm Nacho Codoñer.
 
-💻 I'm a **software engineer** passionate about building powerful **multiplatform apps** using **web technologies only**, centered around **JavaScript**. I work across the full stack: frontend, backend, testing, and infrastructure. I'm particularly _obsessed with the Meteor framework_, for its simplicity, power, and the passionate community of developers behind it.
+💻 I'm a **software engineer** passionate about building **multiplatform apps** using **web technologies only**, centered around **JavaScript**. I work across the full stack: frontend, backend, testing, and infrastructure. I'm particularly _obsessed with the Meteor framework_, for its simplicity, power, and the passionate community of developers behind it.
 
 🚀 I'm currently helping **modernize the Meteor framework** so that any professional or company can rely on it for modern multiplatform development. To support that, I **contribute part-time to the Meteor core team**, and also independently as an enthusiastic hobbyist.
 
