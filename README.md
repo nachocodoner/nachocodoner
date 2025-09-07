@@ -8,7 +8,7 @@ I'm Nacho Codoñer.
 
 🤝 I enjoy collaborating with **teams** that value **proactivity**, **fun**, **learn and experimentation**, **automation**, **horizontal collaboration**, **long-term thinking**, and **respect for each person’s independence and decisions**.
 
-🌱 I love **indie development** and deeply value **autonomy**, it suits my introvert nature. I enjoy a calm, focused work rhythm, space for deep thinking, and the freedom to build with intention. In my spare time, I express creativity by building my _own dream apps_.
+🌱 I love **indie development** and deeply value **autonomy**. I enjoy a calm, focused work rhythm, space for deep thinking, and the freedom to build with intention. In my spare time, I express creativity by building my _own dream apps_.
 
 🏡 Outside tech, I enjoy quiet plans at home, spending time outside with friends and family, running, and playing and exploring the mechanics of board games and online video games.
 
