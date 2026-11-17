@@ -17,17 +17,3 @@ I'm Nacho Codoñer.
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/nachocodoner)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nachocodoner)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/nachocodoner)
-
----
-
-> **Progress isn't only about creating what's next. It's also about preserving what makes what's next possible.**
-
----
-
-> It's often easier to start fresh than to carry years of history forward.
->
-> Yet much of what we celebrate as innovation is built upon open-source foundations, quietly maintained by those who choose to stay and keep them alive.
->
-> Ironically, those foundations often struggle to receive the same recognition and support as the new ideas and projects built upon them.
-
----
